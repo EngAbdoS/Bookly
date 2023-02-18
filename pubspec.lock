@@ -216,14 +216,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "10.3.0"
-  get:
-    dependency: "direct main"
-    description:
-      name: get
-      sha256: "2ba20a47c8f1f233bed775ba2dd0d3ac97b4cf32fc17731b3dfc672b06b0e92a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.6.5"
   get_it:
     dependency: "direct main"
     description:
@@ -320,14 +312,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.2.0"
-  matrix4_transform:
-    dependency: transitive
-    description:
-      name: matrix4_transform
-      sha256: "6ddeaa2c0e1f5c3f3a197f552377570b3e54fa0b8bf48507728a216fc0fd78a6"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.1"
   meta:
     dependency: transitive
     description:
@@ -472,14 +456,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.9.1"
-  scrollable_positioned_list:
-    dependency: transitive
-    description:
-      name: scrollable_positioned_list
-      sha256: ca7fcaa743db712d4f7b1580526f494d0093c77a721a65705ee51fbeac7a2bd3
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.5"
   shared_preferences:
     dependency: "direct main"
     description:
@@ -541,14 +517,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  snappy_list_view:
-    dependency: "direct main"
-    description:
-      name: snappy_list_view
-      sha256: "729fe645c638b683ee200b299b9f25abed579bfea13233fd29392358cb7afa11"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.7"
   social_media_flutter:
     dependency: "direct main"
     description:

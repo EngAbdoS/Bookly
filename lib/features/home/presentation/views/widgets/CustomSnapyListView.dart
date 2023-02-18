@@ -3,7 +3,6 @@ import 'package:go_router/go_router.dart';
 import 'package:scroll_snap_list/scroll_snap_list.dart';
 
 import '../../../../../core/utils/constans.dart';
-//import '../../../../../core/utils/dimentions.dart';
 import '../../../data/models/booksModel.dart';
 import 'featured_list_item.dart';
 

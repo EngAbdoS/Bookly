@@ -52,7 +52,6 @@ https://user-images.githubusercontent.com/86132875/232705839-40178dd9-5258-4cda-
 <h2>Dependencies</h2>
 
 <ul>
-
   <li>flutter_bloc: ^8.1.1</li>
   <li>font_awesome_flutter: 10.3.0</li>
   <li>google_fonts: ^4.0.1</li>
@@ -69,8 +68,7 @@ https://user-images.githubusercontent.com/86132875/232705839-40178dd9-5258-4cda-
   <li>like_button: ^2.0.5</li>
   <li>shared_preferences: ^2.0.17</li>
   <li>avatar_glow: ^2.0.2</li>
-  <li>social_media_flutter: ^0.0.2            </li>
-
+  <li>social_media_flutter: ^0.0.2</li>
 </ul>
 
 
@@ -90,17 +88,3 @@ https://user-images.githubusercontent.com/86132875/232705839-40178dd9-5258-4cda-
 <p>This project is licensed under the MIT License - see LICENSE.md for details.
 </p>
 
-<p align="center">    
-      /\  .-"""-.  /\     
-    //\\/  ,,,  \//\\    
-    |/\| ,;;;;;, |/\|    
-    //\\\;-"""-;///\\    
-   //  \/   .   \/  \\   
-  (| ,-_| \ | / |_-, |)  
-    //`__\.-.-./__`\\    
-   // /.-(() ())-.\ \\   
-  (\ |)   '---'   (| /)  
-   ` (|           |) `   
-     \)  "SWIDAN" (/   
-    
-    </p>
